@@ -8,7 +8,7 @@ and offers a *simple* and *intuitive* API.
 
 Lumache has its documentation hosted on Read the Docs.
 
-Vivek was here.
+Vivek was here again!
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
